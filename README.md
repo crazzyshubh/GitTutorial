@@ -1,1 +1,1 @@
-#This is a Git Tutorial Repository.
+This is a Git Tutorial Repository.
